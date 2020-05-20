@@ -1,0 +1,23 @@
+{
+  "name": "CameraColorFilter",
+  "version": "1.0.0",
+  "description": "Uses camera and tests pixels for color difference. Written in Typescript, ran with parcel.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orionnye/CameraColorFilter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orionnye/CameraColorFilter/issues"
+  },
+  "homepage": "https://github.com/orionnye/CameraColorFilter#readme",
+  "devDependencies": {
+    "typescript": "^3.9.3"
+  }
+}
